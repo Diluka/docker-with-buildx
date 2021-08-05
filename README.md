@@ -1,2 +1,2 @@
 # docker-with-buildx
-Docker with build kit
+Docker with buildx
